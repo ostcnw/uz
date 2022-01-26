@@ -2,11 +2,12 @@ body {
     font-family: sans-serif;
   }
 
-  header {
+  .topbar {
     background-color: rgb(255, 94, 0) ;
     border-color: black;
     border: 6px;
     padding: 15px;
+    margin: 0px;
   }
   
   .alignleft {
