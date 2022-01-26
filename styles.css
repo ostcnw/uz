@@ -3,11 +3,13 @@ body {
   }
 
   .topbar {
-    background-color: rgb(255, 94, 0) ;
+    background-image: linear-gradient(rgb(255, 94, 0), rgb(207, 76, 0));
+    color: white;
     border-color: black;
     border: 6px;
     padding: 15px;
     margin: 0px;
+    text-shadow: 0 0 12px rgb(0, 0, 0);
   }
   
   .alignleft {
