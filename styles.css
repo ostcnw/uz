@@ -3,17 +3,17 @@ body {
   }
 
   header {
-    background-color: DodgerBlue ;
+    background-color: rgb(255, 94, 0) ;
     border-color: black;
     border: 6px;
     padding: 15px;
   }
-
-
-
-  .blockp{
-
-padding-left: 25vw;
-padding-right : 25vw;
-
+  
+  .alignleft {
+    position: static;
+    float: left;
+  }
+  .alignright {
+    position: static;
+    float: right;
   }
